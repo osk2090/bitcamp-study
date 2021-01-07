@@ -23,8 +23,8 @@ public class Exam0100 {
     System.out.println(false);
     
     System.out.println("-------- 문자 리터럴");
-    System.out.println('가');
-    
+    System.out.println('가');//``과 헷갈리지 말것!
+
     System.out.println("-------- 문자열 리터럴");
     System.out.println("오호라 코딩스쿨!");
   }

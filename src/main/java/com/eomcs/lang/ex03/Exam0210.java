@@ -27,7 +27,7 @@ public class Exam0210 {
     //16진수 리터럴
     //- 2진수를 간결하게 표현하기 위해 사용한다.
     //- 0x 또는 0X 로 시작한다.
-    System.out.println(0x64);
+    System.out.println(0x64);//x == hexadicimal
     System.out.println(0X64);
     
     //- 숫자 앞에 0이 있어도 된다.
