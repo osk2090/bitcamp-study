@@ -1,4 +1,4 @@
-package com.eomcs.lang.ex01;
+package main.java.com.eomcs.lang.ex01;
 
 //# 클래스 이름과 소스 파일 이름 I
 //- 공개 클래스의 경우 소스 파일명이 클래스 이름과 같아야 한다. 다르면 컴파일 오류가 발생한다.

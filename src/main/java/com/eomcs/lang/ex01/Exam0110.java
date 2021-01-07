@@ -1,4 +1,4 @@
-package com.eomcs.lang.ex01;
+package main.java.com.eomcs.lang.ex01;
 
 //# 클래스 블록과 컴파일 I
 //- 자바 컴파일러는 클래스 블록 단위로 컴파일을 수행한다.

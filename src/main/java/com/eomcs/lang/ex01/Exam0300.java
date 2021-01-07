@@ -1,4 +1,4 @@
-package com.eomcs.lang.ex01;
+package main.java.com.eomcs.lang.ex01;
 
 //# 소스 파일의 인코딩 지정하기
 //

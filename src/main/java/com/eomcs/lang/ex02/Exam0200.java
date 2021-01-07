@@ -1,4 +1,4 @@
-package com.eomcs.lang.ex02;
+package main.java.com.eomcs.lang.ex02;
 
 //# 주석 - Javadoc 주석
 //
