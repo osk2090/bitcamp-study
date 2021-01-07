@@ -1,4 +1,4 @@
-package main.java.com.eomcs.lang;
+package com.eomcs.lang;
 
 //# 패키지와 클래스
 //- 여러 개발자가 같은 이름의 클래스를 만들 수 있다.
