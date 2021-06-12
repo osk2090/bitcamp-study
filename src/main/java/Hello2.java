@@ -22,11 +22,11 @@
 // └── out  <-- 개발 도구에 따라 이 이름의 폴더에 컴파일 결과 파일을 두기도 한다.
 //
 
-class Hello2 {
-  public static void main(String[] args) {
-    System.out.println("Hello, world!");
-  }
-}
+//class Hello2 {
+//  public static void main(String[] args) {
+//    System.out.println("Hello, world!");
+//  }
+//}
 
 // ## 실습
 // 1) 소스 디렉토리 생성

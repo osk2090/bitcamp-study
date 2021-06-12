@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9336480-4010-412c-b5d9-e89133648285" name="디폴트 변경 목록" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbmodel/ddl.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbmodel/ems-model.exerd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbmodel/sample.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbmodel/team.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbmodel/오은석_경도현_안종원_이필립_정진선 (1).exerd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-ms949.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-utf16be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-utf16le.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-utf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-utf8bom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello" beforeDir="false" afterPath="$PROJECT_DIR$/hello" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.c" beforeDir="false" afterPath="$PROJECT_DIR$/hello.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hello2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/basic/Hello3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/basic/Hello4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/Hello3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/Hello4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0300.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex01/Exam0400.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex02/Exam0100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex02/Exam0200.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex02/Exam0300.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0240.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0250.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0320.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0340.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0350.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0410.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0420.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0500.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0610.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0620.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex03/Exam0700.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0130.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0140.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0160.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0170.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0320.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0340.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0400.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0411.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0412.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0413.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0421.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0422.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0423.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0424.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0425.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0426.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0431.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0432.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0433.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0434.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0441.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0451.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0510.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0520.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0521.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0530.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0540.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0550.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0551.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0560.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0570.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0580.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0610.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0710.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0720.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0810.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0820.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0821.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0822.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0910.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0920.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0930.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0940.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/Exam0950.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test01.b01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test02.b01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test02.b02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test02.b03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test02.b04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test02.b05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/test01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment/test02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test01.java.07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test02.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test02.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex04/assignment2/Test02.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0130.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0140.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0141.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0142.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0143.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0160.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0170.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0221.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0222.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0320.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0340.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0350.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0351.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0352.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0353.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0354.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0355.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0360.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0410.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0411.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0412.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0420.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0421.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0431.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0440.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0450.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0460.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0470.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0510.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0610.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0620.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0630.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0631.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0640.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0650.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0660.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0670.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0671.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0672.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0680.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0681.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0682.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/Exam0710.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java.05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test01.java.06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test02.java.08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test04_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex05/assignment/Test04_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0130.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0140.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0141.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0160.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0161.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0162.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0221.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0222.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0223.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0231.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0232.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0240.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0241.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0242.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0320.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0321.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0322.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0331.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0340.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0410.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0411.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0412.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0413.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0420.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0421.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0431.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0432.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0433.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0440.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0441.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0442.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0450.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0451.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0460.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0461.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0470.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/Exam0471.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Console.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Graphic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test01.java.09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test02.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test02.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test02.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test02.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java.05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test03.java.06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/Test05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/test01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/test02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex06/assignment/test03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0130.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0221.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0222.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0240.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0250.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0260.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0270.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0271.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0280.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0310.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0320.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0410.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0420.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0421.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0440.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0450.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0460.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0461.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0510.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0520.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0530.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0540.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0610.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0620.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/Exam0630.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test02.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test02.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test02.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test02.java.04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test03.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test03.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test03.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test04.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test04.java.02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test04.java.03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex07/assignment/Test05.java.01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0130.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0210.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0220.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0230.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0240.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0250.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eomcs/lang/ex99/Exam0260.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tKkgihOyLDCbtXKGwKRRZueDkr" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="모듈" />
+    <property name="project.structure.proportion" value="0.24307692" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Exam01 (2)">
+    <configuration name="Exam01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eomcs.spring.ioc.ex07.b.Exam01" />
+      <module name="bitcamp-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eomcs.spring.ioc.ex07.b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eomcs.spring.ioc.ex07.a.Exam01" />
+      <module name="bitcamp-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eomcs.spring.ioc.ex07.a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eomcs.spring.ioc.ex04.e.Exam01" />
+      <module name="bitcamp-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eomcs.spring.ioc.ex04.e.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eomcs.spring.ioc.ex05.a.Exam01" />
+      <module name="bitcamp-study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eomcs.spring.ioc.ex05.a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Exam01 (2)" />
+        <item itemvalue="애플리케이션.Exam01 (1)" />
+        <item itemvalue="애플리케이션.Exam01 (1)" />
+        <item itemvalue="애플리케이션.Exam01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="e9336480-4010-412c-b5d9-e89133648285" name="디폴트 변경 목록" comment="" />
+      <created>1622525282297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622525282297</updated>
+      <workItem from="1622525287033" duration="9298000" />
+      <workItem from="1623496266718" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
