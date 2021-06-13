@@ -1,4 +1,4 @@
-package com.eomcs.spring.ioc.ex01;
+package com.eomcs.spring.ioc;
 
 import org.springframework.context.ApplicationContext;
 
